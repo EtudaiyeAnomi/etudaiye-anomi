@@ -38,6 +38,8 @@ I have authored **two peer-reviewed journal publications** as first author and h
 
 [![DOI](https://img.shields.io/badge/DOI-10.22034%2Fchemrestec.2025.532343.1052-blue?style=flat-square)](https://doi.org/10.22034/chemrestec.2025.532343.1052)
 
+[![Water Quality Repo](https://img.shields.io/badge/Repo-Water_Quality_Analysis-1d9e75?style=flat-square&logo=github)](https://github.com/EtudaiyeAnomi/water-quality-analysis)
+
 ---
 
 ### 2. 🌿 Phytochemistry & Natural Products
