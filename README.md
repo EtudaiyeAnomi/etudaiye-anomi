@@ -94,7 +94,7 @@ I have authored **two peer-reviewed journal publications** as first author and h
 ## 📬 Get In Touch
 
 - 📧 **Email:** etudaiye60@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/etudaiye60](https://linkedin.com/in/etudaiye60)
+- 💼 **LinkedIn:** [linkedin.com/in/etudaiye60](https://linkedin.com/in/etudaiyeAnomi)
 - 📍 **Location:** Abuja, FCT, Nigeria
 
 ---
