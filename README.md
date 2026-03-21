@@ -47,7 +47,7 @@ I have authored **two peer-reviewed journal publications** as first author and h
 > **Journal of Tropical Pharmacy and Chemistry**, 2025; 9(2): 58–67.
 
 [![DOI](https://img.shields.io/badge/DOI-10.24252%2Ftrop.pharm.chem.v9i2.58--67-blue?style=flat-square)](https://doi.org/10.24252/trop.pharm.chem.v9i2.58-67)
-
+ https://etudaiyeanomi.github.io/bitter-gourd-dashboard/
 ---
 
 ## 🛠️ Technical Skills
