@@ -53,7 +53,7 @@ covering proximate composition, antioxidant activity, phytochemical profiling, a
 
 **Tech:** Chart.js · HTML/CSS · Adaptive dark mode
 
-[View live demo](https://etudaiyeanomi.github.io/momordica-dashboard) · [View code](https://github.com/etudaiyeanomi/momordica-dashboard)
+[View live demo](https://etudaiyeanomi.github.io/bitter-gourd-research-viz/) · [View code](https://github.com/etudaiyeanomi/bitter-gourd-research-viz/)
 ---
 
 ## 🛠️ Technical Skills
