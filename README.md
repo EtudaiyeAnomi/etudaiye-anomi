@@ -45,9 +45,15 @@ I have authored **two peer-reviewed journal publications** as first author and h
 ### 2. 🌿 Phytochemistry & Natural Products
 > **Etudaiye A., Ndukaire V., & Afolayan M.** *Nutritional Constituents, Phytochemical Analysis, and Biological Evaluation of Momordica charantia (Bitter Gourd) Leaf and Stem Ethanol Extracts.*
 > **Journal of Tropical Pharmacy and Chemistry**, 2025; 9(2): 58–67.
+## Featured Projects
 
-[![DOI](https://img.shields.io/badge/DOI-10.24252%2Ftrop.pharm.chem.v9i2.58--67-blue?style=flat-square)](https://doi.org/10.24252/trop.pharm.chem.v9i2.58-67)
- https://etudaiyeanomi.github.io/bitter-gourd-dashboard/
+### 🌿 Momordica charantia Research Dashboard
+An interactive data visualization of a peer-reviewed pharmacological study on bitter gourd,
+covering proximate composition, antioxidant activity, phytochemical profiling, and antimicrobial assays.
+
+**Tech:** Chart.js · HTML/CSS · Adaptive dark mode
+
+[View live demo](https://etudaiyeanomi.github.io/momordica-dashboard) · [View code](https://github.com/etudaiyeanomi/momordica-dashboard)
 ---
 
 ## 🛠️ Technical Skills
